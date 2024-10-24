@@ -1,0 +1,6 @@
+Filetype: Barcode
+Version: 1
+# Types - UPC-A, EAN-8, EAN-13, CODE-39, CODE-128, Codabar
+Type: UPC-A
+Data: 745938061920
+Name: 031 - Bog
